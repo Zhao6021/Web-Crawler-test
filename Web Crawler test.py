@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[83]:
-
-
 import requests as rq
 from bs4 import BeautifulSoup as BS
 
